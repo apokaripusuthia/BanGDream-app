@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>問15</key>
+	<dict>
+		<key>Q</key>
+		<string>Dr.、『松原　花音』の好きな食べ物は？（キャラ作りは除く）</string>
+		<key>A1</key>
+		<string>美味しいお菓子・ケーキ・コーヒー・紅茶</string>
+		<key>A2</key>
+		<string>美味しいお菓子・ケーキ・コーヒー・アイスティー</string>
+		<key>A3</key>
+		<string>美味しいお菓子・ケーキ・チョココロネ・飴</string>
+		<key>A4</key>
+		<string>美味しいお菓子・ケーキ・チョココロネ・ぶどう</string>
+		<key>Correct</key>
+		<string>美味しいお菓子・ケーキ・コーヒー・紅茶</string>
+		<key>name</key>
+		<string>ハローハッピーワールド</string>
+	</dict>
+	<key>問14</key>
+	<dict>
+		<key>Q</key>
+		<string>Gt.、『瀬田　薫』の好きな食べ物は？（キャラ作りは除く）</string>
+		<key>A1</key>
+		<string>ザッハトルテ</string>
+		<key>A2</key>
+		<string>ぶどうジュース</string>
+		<key>A3</key>
+		<string>ヴィッシソワーズ</string>
+		<key>A4</key>
+		<string>煮物</string>
+		<key>Correct</key>
+		<string>煮物</string>
+		<key>name</key>
+		<string>ハローハッピーワールド</string>
+	</dict>
+	<key>問13</key>
+	<dict>
+		<key>Q</key>
+		<string>DJ、『奥沢　美咲』の好きな食べ物は？</string>
+		<key>A1</key>
+		<string>煮物</string>
+		<key>A2</key>
+		<string>焼きそば</string>
+		<key>A3</key>
+		<string>ラーメン</string>
+		<key>A4</key>
+		<string>ファミレスのメニュー</string>
+		<key>Correct</key>
+		<string>ファミレスのメニュー</string>
+		<key>name</key>
+		<string>ハローハッピーワールド</string>
+	</dict>
+	<key>問12</key>
+	<dict>
+		<key>Q</key>
+		<string>Ba.、『北沢　はぐみ』の好きな食べ物は？</string>
+		<key>A1</key>
+		<string>自分のお店のコロッケ・お肉・シチュー</string>
+		<key>A2</key>
+		<string>自分のお店のコロッケ・お肉・カレー</string>
+		<key>A3</key>
+		<string>自分のお店のコロッケ・焼き魚・ハンバーグ</string>
+		<key>A4</key>
+		<string>自分のお店のコロッケ・焼き魚・焼きそば</string>
+		<key>Correct</key>
+		<string>自分のお店のコロッケ・お肉・カレー</string>
+		<key>name</key>
+		<string>ハローハッピーワールド</string>
+	</dict>
+	<key>問11</key>
+	<dict>
+		<key>Q</key>
+		<string>Vo.、『弦巻　こころ』の好きな食べ物は？</string>
+		<key>A1</key>
+		<string>なんでも好き！</string>
+		<key>A2</key>
+		<string>なんでも大好き！</string>
+		<key>A3</key>
+		<string>なんでも食べられる！</string>
+		<key>A4</key>
+		<string>嫌いなものはない！</string>
+		<key>Correct</key>
+		<string>なんでも大好き！</string>
+		<key>name</key>
+		<string>ハローハッピーワールド</string>
+	</dict>
+	<key>問10</key>
+	<dict>
+		<key>Q</key>
+		<string>Vo.、『弦巻　こころ』が所属している部活は？</string>
+		<key>A1</key>
+		<string>帰宅部</string>
+		<key>A2</key>
+		<string>ダンス部</string>
+		<key>A3</key>
+		<string>美術部</string>
+		<key>A4</key>
+		<string>天文部</string>
+		<key>Correct</key>
+		<string>天文部</string>
+		<key>name</key>
+		<string>ハローハッピーワールド</string>
+	</dict>
+	<key>問9</key>
+	<dict>
+		<key>Q</key>
+		<string>Ba.、『北沢　はぐみ』が所属している部活は？</string>
+		<key>A1</key>
+		<string>陸上部</string>
+		<key>A2</key>
+		<string>テニス部</string>
+		<key>A3</key>
+		<string>ダンス部</string>
+		<key>A4</key>
+		<string>ソフトボール部</string>
+		<key>Correct</key>
+		<string>ダンス部</string>
+		<key>name</key>
+		<string>ハローハッピーワールド</string>
+	</dict>
+	<key>問8</key>
+	<dict>
+		<key>Q</key>
+		<string>DJ、『奥沢　美咲』が所属している部活は？</string>
+		<key>A1</key>
+		<string>テニス部</string>
+		<key>A2</key>
+		<string>裁縫部</string>
+		<key>A3</key>
+		<string>家庭科部</string>
+		<key>A4</key>
+		<string>帰宅部</string>
+		<key>Correct</key>
+		<string>テニス部</string>
+		<key>name</key>
+		<string>ハローハッピーワールド</string>
+	</dict>
+	<key>問7</key>
+	<dict>
+		<key>Q</key>
+		<string>Gt.、『瀬田　薫』が所属している部活は？</string>
+		<key>A1</key>
+		<string>哲学部</string>
+		<key>A2</key>
+		<string>演劇部</string>
+		<key>A3</key>
+		<string>美術部</string>
+		<key>A4</key>
+		<string>天文部</string>
+		<key>Correct</key>
+		<string>演劇部</string>
+		<key>name</key>
+		<string>ハローハッピーワールド</string>
+	</dict>
+	<key>問6</key>
+	<dict>
+		<key>Q</key>
+		<string>Dr.、『松原　花音』が所属している部活は？</string>
+		<key>A1</key>
+		<string>茶道部</string>
+		<key>A2</key>
+		<string>美術部</string>
+		<key>A3</key>
+		<string>帰宅部</string>
+		<key>A4</key>
+		<string>華道部</string>
+		<key>Correct</key>
+		<string>茶道部</string>
+		<key>name</key>
+		<string>ハローハッピーワールド</string>
+	</dict>
+	<key>問5</key>
+	<dict>
+		<key>Q</key>
+		<string>Dr.、『まつばら　かのん』の名前を正しく書くと？</string>
+		<key>A1</key>
+		<string>松原　花音</string>
+		<key>A2</key>
+		<string>松原　奏音</string>
+		<key>A3</key>
+		<string>松薔薇　花音</string>
+		<key>A4</key>
+		<string>松薔薇　奏音</string>
+		<key>Correct</key>
+		<string>松原　花音</string>
+		<key>name</key>
+		<string>ハローハッピーワールド</string>
+	</dict>
+	<key>問4</key>
+	<dict>
+		<key>Q</key>
+		<string>Gt.、『せた　かおる』の名前を正しく書くと？</string>
+		<key>A1</key>
+		<string>瀬田　薫</string>
+		<key>A2</key>
+		<string>世田　薫</string>
+		<key>A3</key>
+		<string>瀬多　薫</string>
+		<key>A4</key>
+		<string>清多　薫</string>
+		<key>Correct</key>
+		<string>瀬田　薫</string>
+		<key>name</key>
+		<string>ハローハッピーワールド</string>
+	</dict>
+	<key>問3</key>
+	<dict>
+		<key>Q</key>
+		<string>DJ、『おくさわ　みさき』の名前を正しく書くと？</string>
+		<key>A1</key>
+		<string>奥沢　岬</string>
+		<key>A2</key>
+		<string>奥沢　三崎</string>
+		<key>A3</key>
+		<string>奥沢　美咲</string>
+		<key>A4</key>
+		<string>奥沢　美崎</string>
+		<key>Correct</key>
+		<string>奥沢　美咲</string>
+		<key>name</key>
+		<string>ハローハッピーワールド</string>
+	</dict>
+	<key>問2</key>
+	<dict>
+		<key>Q</key>
+		<string>Ba.、『きたざわ　はぐみ』の名前を正しく書くと？</string>
+		<key>A1</key>
+		<string>北澤　育</string>
+		<key>A2</key>
+		<string>北沢　育</string>
+		<key>A3</key>
+		<string>北澤　はぐみ</string>
+		<key>A4</key>
+		<string>北沢　はぐみ</string>
+		<key>Correct</key>
+		<string>北沢　はぐみ</string>
+		<key>name</key>
+		<string>ハローハッピーワールド</string>
+	</dict>
+	<key>問1</key>
+	<dict>
+		<key>Q</key>
+		<string>Vo.、『つるまき　こころ』の名前を正しく書くと？</string>
+		<key>A1</key>
+		<string>弦巻　心</string>
+		<key>A2</key>
+		<string>鶴巻　心</string>
+		<key>A3</key>
+		<string>弦巻　こころ</string>
+		<key>A4</key>
+		<string>鶴巻　こころ</string>
+		<key>Correct</key>
+		<string>弦巻　こころ</string>
+		<key>name</key>
+		<string>ハローハッピーワールド</string>
+	</dict>
+</dict>
+</plist>

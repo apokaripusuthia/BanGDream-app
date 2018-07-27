@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>問15</key>
+	<dict>
+		<key>Q</key>
+		<string>Ba.、『白鷺　千聖』の好きな食べ物は？</string>
+		<key>A1</key>
+		<string>紅茶・さっぱりした味のもの・アイスティー</string>
+		<key>A2</key>
+		<string>紅茶・さっぱりした味のもの・アイスクリーム</string>
+		<key>A3</key>
+		<string>紅茶・さっぱりした味のもの・アサイーボウル</string>
+		<key>A4</key>
+		<string>紅茶・さっぱりした味のもの・ショートケーキ</string>
+		<key>Correct</key>
+		<string>紅茶・さっぱりした味のもの・アサイーボウル</string>
+		<key>name</key>
+		<string>Pastel*Palettes</string>
+	</dict>
+	<key>問14</key>
+	<dict>
+		<key>Q</key>
+		<string>Dr.、『大和　麻弥』の好きな食べ物は？</string>
+		<key>A1</key>
+		<string>野菜スティック</string>
+		<key>A2</key>
+		<string>いちご</string>
+		<key>A3</key>
+		<string>ショートケーキ</string>
+		<key>A4</key>
+		<string>食パン</string>
+		<key>Correct</key>
+		<string>野菜スティック</string>
+		<key>name</key>
+		<string>Pastel*Palettes</string>
+	</dict>
+	<key>問13</key>
+	<dict>
+		<key>Q</key>
+		<string>Key.、『若宮　イヴ』の好きな食べ物は？</string>
+		<key>A1</key>
+		<string>紅茶</string>
+		<key>A2</key>
+		<string>プリン</string>
+		<key>A3</key>
+		<string>ケーキ</string>
+		<key>A4</key>
+		<string>ジンジャークッキー</string>
+		<key>Correct</key>
+		<string>ジンジャークッキー</string>
+		<key>name</key>
+		<string>Pastel*Palettes</string>
+	</dict>
+	<key>問12</key>
+	<dict>
+		<key>Q</key>
+		<string>Vo.、『丸山　彩』の好きな食べ物は？</string>
+		<key>A1</key>
+		<string>ハンバーガー・フライドポテトなどのジャンクフード</string>
+		<key>A2</key>
+		<string>オムライス・ハンバーグなどの洋食</string>
+		<key>A3</key>
+		<string>ピザ・パスタなどのイタリアン</string>
+		<key>A4</key>
+		<string>寿司・天ぷらなどの和食</string>
+		<key>Correct</key>
+		<string>オムライス・ハンバーグなどの洋食</string>
+		<key>name</key>
+		<string>Pastel*Palettes</string>
+	</dict>
+	<key>問11</key>
+	<dict>
+		<key>Q</key>
+		<string>Gt.、『氷川　日菜』の好きな食べ物は？</string>
+		<key>A1</key>
+		<string>ガム・キャンディ・ジャンクフード</string>
+		<key>A2</key>
+		<string>ガム・キャンディ・金平糖</string>
+		<key>A3</key>
+		<string>ガム・キャンディ・パンケーキ</string>
+		<key>A4</key>
+		<string>ガム・キャンディ・プリン</string>
+		<key>Correct</key>
+		<string>ガム・キャンディ・ジャンクフード</string>
+		<key>name</key>
+		<string>Pastel*Palettes</string>
+	</dict>
+	<key>問10</key>
+	<dict>
+		<key>Q</key>
+		<string>Gt.、『氷川　日菜』の嫌いな食べ物は？</string>
+		<key>A1</key>
+		<string>辛いもの</string>
+		<key>A2</key>
+		<string>甘いもの</string>
+		<key>A3</key>
+		<string>味が濃いもの</string>
+		<key>A4</key>
+		<string>味が薄いもの</string>
+		<key>Correct</key>
+		<string>味が薄いもの</string>
+		<key>name</key>
+		<string>Pastel*Palettes</string>
+	</dict>
+	<key>問9</key>
+	<dict>
+		<key>Q</key>
+		<string>Ba.、『白鷺　千聖』の嫌いな食べ物は？</string>
+		<key>A1</key>
+		<string>にんじん</string>
+		<key>A2</key>
+		<string>キムチ</string>
+		<key>A3</key>
+		<string>納豆</string>
+		<key>A4</key>
+		<string>味噌</string>
+		<key>Correct</key>
+		<string>高級食材</string>
+		<key>name</key>
+		<string>Pastel*Palettes</string>
+	</dict>
+	<key>問8</key>
+	<dict>
+		<key>Q</key>
+		<string>Dr.、『大和　麻弥』の嫌いな食べ物は？</string>
+		<key>A1</key>
+		<string>高級食材</string>
+		<key>A2</key>
+		<string>焼肉</string>
+		<key>A3</key>
+		<string>寿司</string>
+		<key>A4</key>
+		<string>パン</string>
+		<key>Correct</key>
+		<string>高級食材</string>
+		<key>name</key>
+		<string>Pastel*Palettes</string>
+	</dict>
+	<key>問7</key>
+	<dict>
+		<key>Q</key>
+		<string>Key.、『若宮　イヴ』の嫌いな食べ物は？</string>
+		<key>A1</key>
+		<string>団子</string>
+		<key>A2</key>
+		<string>餅</string>
+		<key>A3</key>
+		<string>ぬか漬け</string>
+		<key>A4</key>
+		<string>金平糖</string>
+		<key>Correct</key>
+		<string>ぬか漬け</string>
+		<key>name</key>
+		<string>Pastel*Palettes</string>
+	</dict>
+	<key>問6</key>
+	<dict>
+		<key>Q</key>
+		<string>Vo.、『丸山　彩』の嫌いな食べ物は？</string>
+		<key>A1</key>
+		<string>いか</string>
+		<key>A2</key>
+		<string>たこ</string>
+		<key>A3</key>
+		<string>うに</string>
+		<key>A4</key>
+		<string>昆布</string>
+		<key>Correct</key>
+		<string>たこ</string>
+		<key>name</key>
+		<string>Pastel*Palettes</string>
+	</dict>
+	<key>問5</key>
+	<dict>
+		<key>Q</key>
+		<string>Ba.、『しらさぎ　ちさと』の名前を正しく書くと？</string>
+		<key>A1</key>
+		<string>白鷺　千里</string>
+		<key>A2</key>
+		<string>白鷺　千聖</string>
+		<key>A3</key>
+		<string>白鷺　千郷</string>
+		<key>A4</key>
+		<string>白鷺　千佐都</string>
+		<key>Correct</key>
+		<string>白鷺　千聖</string>
+		<key>name</key>
+		<string>Pastel*Palettes</string>
+	</dict>
+	<key>問4</key>
+	<dict>
+		<key>Q</key>
+		<string>Gt.、『ひかわ　ひな』の名前を正しく書くと？</string>
+		<key>A1</key>
+		<string>氷川　日菜</string>
+		<key>A2</key>
+		<string>氷川　陽菜</string>
+		<key>A3</key>
+		<string>氷川　日奈</string>
+		<key>A4</key>
+		<string>氷川　日那</string>
+		<key>Correct</key>
+		<string>氷川　日菜</string>
+		<key>name</key>
+		<string>Pastel*Palettes</string>
+	</dict>
+	<key>問3</key>
+	<dict>
+		<key>Q</key>
+		<string>Dr.、『やまと　まや』の名前を正しく書くと？</string>
+		<key>A1</key>
+		<string>大和　摩耶</string>
+		<key>A2</key>
+		<string>大和　麻耶</string>
+		<key>A3</key>
+		<string>大和　摩弥</string>
+		<key>A4</key>
+		<string>大和　麻弥</string>
+		<key>Correct</key>
+		<string>大和　麻弥</string>
+		<key>name</key>
+		<string>Pastel*Palettes</string>
+	</dict>
+	<key>問2</key>
+	<dict>
+		<key>Q</key>
+		<string>key.、『わかみや　いぶ』の名前を正しく書くと？</string>
+		<key>A1</key>
+		<string>和歌宮　イヴ</string>
+		<key>A2</key>
+		<string>嫩宮　イヴ</string>
+		<key>A3</key>
+		<string>若宮　イヴ</string>
+		<key>A4</key>
+		<string>若美弥　イヴ</string>
+		<key>Correct</key>
+		<string>若宮　イヴ</string>
+		<key>name</key>
+		<string>Pastel*Palettes</string>
+	</dict>
+	<key>問1</key>
+	<dict>
+		<key>Q</key>
+		<string>Vo.、『まるやま　あや』の名前を正しく書くと？</string>
+		<key>A1</key>
+		<string>鞠山　彩</string>
+		<key>A2</key>
+		<string>鞠山　綾</string>
+		<key>A3</key>
+		<string>丸山　彩</string>
+		<key>A4</key>
+		<string>丸山　綾</string>
+		<key>Correct</key>
+		<string>丸山　彩</string>
+		<key>name</key>
+		<string>Pastel*Palettes</string>
+	</dict>
+</dict>
+</plist>

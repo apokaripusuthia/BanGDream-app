@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>問15</key>
+	<dict>
+		<key>Q</key>
+		<string>Gt.、『氷川　紗夜』の好きな食べ物は？</string>
+		<key>A1</key>
+		<string>ジャンクフード・ガム・アップルパイ</string>
+		<key>A2</key>
+		<string>ジャンクフード・ガム・プリン</string>
+		<key>A3</key>
+		<string>ジャンクフード・ガム・ガトーショコラ</string>
+		<key>A4</key>
+		<string>ジャンクフード・ガム・キャンディ</string>
+		<key>Correct</key>
+		<string>ジャンクフード・ガム・キャンディ</string>
+		<key>name</key>
+		<string>Roselia</string>
+	</dict>
+	<key>問14</key>
+	<dict>
+		<key>Q</key>
+		<string>Dr.、『宇田川　あこ』の好きな食べ物は？</string>
+		<key>A1</key>
+		<string>ポテトチップ・コーラ</string>
+		<key>A2</key>
+		<string>ポテトチップ・クッキー</string>
+		<key>A3</key>
+		<string>ポテトチップ・ジェリービーンズ</string>
+		<key>A4</key>
+		<string>ポテトチップ・ふ菓子</string>
+		<key>Correct</key>
+		<string>ポテトチップ・ジェリービーンズ</string>
+		<key>name</key>
+		<string>Roselia</string>
+	</dict>
+	<key>問13</key>
+	<dict>
+		<key>Q</key>
+		<string>Key.、『白金　燐子』の好きな食べ物は？</string>
+		<key>A1</key>
+		<string>抹茶</string>
+		<key>A2</key>
+		<string>ホットミルク</string>
+		<key>A3</key>
+		<string>紅茶</string>
+		<key>A4</key>
+		<string>コーヒー</string>
+		<key>Correct</key>
+		<string>ホットミルク</string>
+		<key>name</key>
+		<string>Roselia</string>
+	</dict>
+	<key>問12</key>
+	<dict>
+		<key>Q</key>
+		<string>Ba.、『今井　リサ』の好きな食べ物は？</string>
+		<key>A1</key>
+		<string>筑前煮・あんみつ</string>
+		<key>A2</key>
+		<string>筑前煮・クッキー</string>
+		<key>A3</key>
+		<string>筑前煮・スムージー</string>
+		<key>A4</key>
+		<string>筑前煮・酢の物</string>
+		<key>Correct</key>
+		<string>筑前煮・酢の物</string>
+		<key>name</key>
+		<string>Roselia</string>
+	</dict>
+	<key>問11</key>
+	<dict>
+		<key>Q</key>
+		<string>Vo.、『湊　友希那』の好きな食べ物は？</string>
+		<key>A1</key>
+		<string>紅茶・リサが作ったクッキー</string>
+		<key>A2</key>
+		<string>はちみつティー・リサが作ったクッキー</string>
+		<key>A3</key>
+		<string>コーヒー・リサが作ったクッキー</string>
+		<key>A4</key>
+		<string>アイスティー・リサが作ったクッキー</string>
+		<key>Correct</key>
+		<string>はちみつティー・リサが作ったクッキー</string>
+		<key>name</key>
+		<string>Roselia</string>
+	</dict>
+	<key>問10</key>
+	<dict>
+		<key>Q</key>
+		<string>Vo.、『湊　友希那』の趣味は？</string>
+		<key>A1</key>
+		<string>楽器店巡り</string>
+		<key>A2</key>
+		<string>ボイストレーニング</string>
+		<key>A3</key>
+		<string>雑誌集め</string>
+		<key>A4</key>
+		<string>なし</string>
+		<key>Correct</key>
+		<string>なし</string>
+		<key>name</key>
+		<string>Roselia</string>
+	</dict>
+	<key>問9</key>
+	<dict>
+		<key>Q</key>
+		<string>Ba.、『今井　リサ』の趣味は？</string>
+		<key>A1</key>
+		<string>アクセサリー集め</string>
+		<key>A2</key>
+		<string>ネイル</string>
+		<key>A3</key>
+		<string>編み物</string>
+		<key>A4</key>
+		<string>ショッピング</string>
+		<key>Correct</key>
+		<string>編み物</string>
+		<key>name</key>
+		<string>Roselia</string>
+	</dict>
+	<key>問8</key>
+	<dict>
+		<key>Q</key>
+		<string>Dr.、『宇田川　あこ』の趣味は？</string>
+		<key>A1</key>
+		<string>カッコイイこと研究</string>
+		<key>A2</key>
+		<string>カッコイイ服集め</string>
+		<key>A3</key>
+		<string>カッコイイグッズ集め</string>
+		<key>A4</key>
+		<string>魔法陣作成</string>
+		<key>Correct</key>
+		<string>カッコイイこと研究</string>
+		<key>name</key>
+		<string>Roselia</string>
+	</dict>
+	<key>問7</key>
+	<dict>
+		<key>Q</key>
+		<string>Key.、『白金　燐子』の趣味は？</string>
+		<key>A1</key>
+		<string>オンラインゲーム・テレビゲーム</string>
+		<key>A2</key>
+		<string>オンラインゲーム・オセロ</string>
+		<key>A3</key>
+		<string>オンラインゲーム・トランプ</string>
+		<key>A4</key>
+		<string>オンラインゲーム・クロスワード</string>
+		<key>Correct</key>
+		<string>オンラインゲーム・クロスワード</string>
+		<key>name</key>
+		<string>Roselia</string>
+	</dict>
+	<key>問6</key>
+	<dict>
+		<key>Q</key>
+		<string>Gt.、『氷川　紗夜』の趣味は？</string>
+		<key>A1</key>
+		<string>ネットサーフィン</string>
+		<key>A2</key>
+		<string>ショッピング</string>
+		<key>A3</key>
+		<string>ギター</string>
+		<key>A4</key>
+		<string>なし</string>
+		<key>Correct</key>
+		<string>なし</string>
+		<key>name</key>
+		<string>Roselia</string>
+	</dict>
+	<key>問5</key>
+	<dict>
+		<key>Q</key>
+		<string>Gt.、『ひかわ　さよ』の名前を正しく書くと？</string>
+		<key>A1</key>
+		<string>氷川　咲夜</string>
+		<key>A2</key>
+		<string>氷川　紗夜</string>
+		<key>A3</key>
+		<string>氷川　沙夜</string>
+		<key>A4</key>
+		<string>氷川　彩夜</string>
+		<key>Correct</key>
+		<string>氷川　紗夜</string>
+		<key>name</key>
+		<string>Roselia</string>
+	</dict>
+	<key>問4</key>
+	<dict>
+		<key>Q</key>
+		<string>Ba.、『いまい　りさ』の名前を正しく書くと？</string>
+		<key>A1</key>
+		<string>今井　理沙</string>
+		<key>A2</key>
+		<string>今井　梨沙</string>
+		<key>A3</key>
+		<string>今井　リサ</string>
+		<key>A4</key>
+		<string>今井　りさ</string>
+		<key>Correct</key>
+		<string>今井　リサ</string>
+		<key>name</key>
+		<string>Roselia</string>
+	</dict>
+	<key>問3</key>
+	<dict>
+		<key>Q</key>
+		<string>Key.、『しろかね　りんこ』の名前を正しく書くと？</string>
+		<key>A1</key>
+		<string>白金　燐子</string>
+		<key>A2</key>
+		<string>白金　凛子</string>
+		<key>A3</key>
+		<string>白金　琳子</string>
+		<key>A4</key>
+		<string>白金　鈴子</string>
+		<key>Correct</key>
+		<string>白金　燐子</string>
+		<key>name</key>
+		<string>Roselia</string>
+	</dict>
+	<key>問2</key>
+	<dict>
+		<key>Q</key>
+		<string>Dr.、『うだがわ　あこ』の名前を正しく書くと？</string>
+		<key>A1</key>
+		<string>宇多川　亜子</string>
+		<key>A2</key>
+		<string>宇田川　亜子</string>
+		<key>A3</key>
+		<string>宇多川　あこ</string>
+		<key>A4</key>
+		<string>宇田川　あこ</string>
+		<key>Correct</key>
+		<string>宇田川　あこ</string>
+		<key>name</key>
+		<string>Roselia</string>
+	</dict>
+	<key>問1</key>
+	<dict>
+		<key>Q</key>
+		<string>Vo.、『みなと　ゆきな』の名前を正しく書くと？</string>
+		<key>A1</key>
+		<string>湊　優希奈</string>
+		<key>A2</key>
+		<string>湊　優希那</string>
+		<key>A3</key>
+		<string>湊　友希奈</string>
+		<key>A4</key>
+		<string>湊　友希那</string>
+		<key>Correct</key>
+		<string>湊　友希那</string>
+		<key>name</key>
+		<string>Roselia</string>
+	</dict>
+</dict>
+</plist>

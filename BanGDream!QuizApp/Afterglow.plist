@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>問15</key>
+	<dict>
+		<key>Q</key>
+		<string>Key.、『羽沢　つぐみ』の好きな食べ物は？</string>
+		<key>A1</key>
+		<string>母の焼いたケーキ</string>
+		<key>A2</key>
+		<string>母の焼いたパン</string>
+		<key>A3</key>
+		<string>母の淹れた紅茶</string>
+		<key>A4</key>
+		<string>母の淹れたコーヒー</string>
+		<key>Correct</key>
+		<string>母の焼いたケーキ</string>
+		<key>name</key>
+		<string>Afterglow</string>
+	</dict>
+	<key>問14</key>
+	<dict>
+		<key>Q</key>
+		<string>Ba.、『上原　ひまり』の好きな食べ物は？</string>
+		<key>A1</key>
+		<string>チョコレート・コンビニスイーツ</string>
+		<key>A2</key>
+		<string>チョコレート・パン</string>
+		<key>A3</key>
+		<string>あんみつ・アイスクリーム</string>
+		<key>A4</key>
+		<string>あんみつ・パフェ</string>
+		<key>Correct</key>
+		<string>チョコレート・コンビニスイーツ</string>
+		<key>name</key>
+		<string>Afterglow</string>
+	</dict>
+	<key>問13</key>
+	<dict>
+		<key>Q</key>
+		<string>Dr.、『宇田川　巴』の好きな食べ物は？</string>
+		<key>A1</key>
+		<string>味噌ラーメン</string>
+		<key>A2</key>
+		<string>しょうゆラーメン</string>
+		<key>A3</key>
+		<string>豚骨ラーメン</string>
+		<key>A4</key>
+		<string>豚骨しょうゆラーメン</string>
+		<key>Correct</key>
+		<string>豚骨しょうゆラーメン</string>
+		<key>name</key>
+		<string>Afterglow</string>
+	</dict>
+	<key>問12</key>
+	<dict>
+		<key>Q</key>
+		<string>Gt.、『青葉　モカ』の好きな食べ物は？</string>
+		<key>A1</key>
+		<string>飴</string>
+		<key>A2</key>
+		<string>せんべい</string>
+		<key>A3</key>
+		<string>パン</string>
+		<key>A4</key>
+		<string>いちご</string>
+		<key>Correct</key>
+		<string>パン</string>
+		<key>name</key>
+		<string>Afterglow</string>
+	</dict>
+	<key>問11</key>
+	<dict>
+		<key>Q</key>
+		<string>Gt. &amp;Vo.、『美竹　蘭』の好きな食べ物は？</string>
+		<key>A1</key>
+		<string>甘いお菓子</string>
+		<key>A2</key>
+		<string>辛いお菓子</string>
+		<key>A3</key>
+		<string>すっぱいお菓子</string>
+		<key>A4</key>
+		<string>ビター系のお菓子</string>
+		<key>Correct</key>
+		<string>ビター系のお菓子</string>
+		<key>name</key>
+		<string>Afterglow</string>
+	</dict>
+	<key>問10</key>
+	<dict>
+		<key>Q</key>
+		<string>Gt. &amp;Vo.、『美竹　蘭』の誕生日は？</string>
+		<key>A1</key>
+		<string>4月5日</string>
+		<key>A2</key>
+		<string>4月10日</string>
+		<key>A3</key>
+		<string>4月15日 </string>
+		<key>A4</key>
+		<string>4月20日</string>
+		<key>Correct</key>
+		<string>4月10日</string>
+		<key>name</key>
+		<string>Afterglow</string>
+	</dict>
+	<key>問9</key>
+	<dict>
+		<key>Q</key>
+		<string>Gt.、『青葉　モカ』の誕生日は？</string>
+		<key>A1</key>
+		<string>9月1日</string>
+		<key>A2</key>
+		<string>9月2日</string>
+		<key>A3</key>
+		<string>9月3日</string>
+		<key>A4</key>
+		<string>9月4日</string>
+		<key>Correct</key>
+		<string>9月3日</string>
+		<key>name</key>
+		<string>Afterglow</string>
+	</dict>
+	<key>問8</key>
+	<dict>
+		<key>Q</key>
+		<string>Dr.、『宇田川　巴』の誕生日は？</string>
+		<key>A1</key>
+		<string>4月10日</string>
+		<key>A2</key>
+		<string>4月15日</string>
+		<key>A3</key>
+		<string>4月20日</string>
+		<key>A4</key>
+		<string>4月25日</string>
+		<key>Correct</key>
+		<string>4月15日</string>
+		<key>name</key>
+		<string>Afterglow</string>
+	</dict>
+	<key>問7</key>
+	<dict>
+		<key>Q</key>
+		<string>Ba.、『上原　ひまり』の誕生日は？</string>
+		<key>A1</key>
+		<string>10月10日</string>
+		<key>A2</key>
+		<string>10月12日</string>
+		<key>A3</key>
+		<string>10月18日</string>
+		<key>A4</key>
+		<string>10月23日</string>
+		<key>Correct</key>
+		<string>10月23日</string>
+		<key>name</key>
+		<string>Afterglow</string>
+	</dict>
+	<key>問6</key>
+	<dict>
+		<key>Q</key>
+		<string>Key.、『羽沢　つぐみ』の誕生日は？</string>
+		<key>A1</key>
+		<string>1月1日</string>
+		<key>A2</key>
+		<string>1月5日</string>
+		<key>A3</key>
+		<string>1月7日</string>
+		<key>A4</key>
+		<string>1月10日</string>
+		<key>Correct</key>
+		<string>1月7日</string>
+		<key>name</key>
+		<string>Afterglow</string>
+	</dict>
+	<key>問5</key>
+	<dict>
+		<key>Q</key>
+		<string>Key.、『はざわ　つぐみ』の名前を正しく書くと？</string>
+		<key>A1</key>
+		<string>羽沢　二美</string>
+		<key>A2</key>
+		<string>羽沢　つぐみ</string>
+		<key>A3</key>
+		<string>葉沢　二美</string>
+		<key>A4</key>
+		<string>葉沢　つぐみ</string>
+		<key>Correct</key>
+		<string>羽沢　つぐみ</string>
+		<key>name</key>
+		<string>Afterglow</string>
+	</dict>
+	<key>問4</key>
+	<dict>
+		<key>Q</key>
+		<string>Dr.、『うだがわ　ともえ』の名前を正しく書くと？</string>
+		<key>A1</key>
+		<string>宇多川　智恵</string>
+		<key>A2</key>
+		<string>宇多川　巴</string>
+		<key>A3</key>
+		<string>宇田川　智恵</string>
+		<key>A4</key>
+		<string>宇田川　巴</string>
+		<key>Correct</key>
+		<string>宇田川　巴</string>
+		<key>name</key>
+		<string>Afterglow</string>
+	</dict>
+	<key>問3</key>
+	<dict>
+		<key>Q</key>
+		<string>Ba.、『うえはら　ひまり』の名前を正しく書くと？</string>
+		<key>A1</key>
+		<string>上原　陽毬</string>
+		<key>A2</key>
+		<string>上原　日鞠</string>
+		<key>A3</key>
+		<string>上原　陽鞠</string>
+		<key>A4</key>
+		<string>上原　ひまり</string>
+		<key>Correct</key>
+		<string>上原　ひまり</string>
+		<key>name</key>
+		<string>Afterglow</string>
+	</dict>
+	<key>問2</key>
+	<dict>
+		<key>Q</key>
+		<string>Gt.、『あおば　もか』の名前を正しく書くと？</string>
+		<key>A1</key>
+		<string>青葉　モカ</string>
+		<key>A2</key>
+		<string>蒼葉　モカ</string>
+		<key>A3</key>
+		<string>青羽　モカ</string>
+		<key>A4</key>
+		<string>蒼羽　モカ</string>
+		<key>Correct</key>
+		<string>青葉　モカ</string>
+		<key>name</key>
+		<string>Afterglow</string>
+	</dict>
+	<key>問1</key>
+	<dict>
+		<key>Q</key>
+		<string>Gt. &amp;Vo.、『みたけ　らん』の名前を正しく書くと？</string>
+		<key>A1</key>
+		<string>御岳　欄</string>
+		<key>A2</key>
+		<string>御岳　蘭</string>
+		<key>A3</key>
+		<string>美竹　欄</string>
+		<key>A4</key>
+		<string>美竹　蘭</string>
+		<key>Correct</key>
+		<string>美竹　蘭</string>
+		<key>name</key>
+		<string>Afterglow</string>
+	</dict>
+</dict>
+</plist>
