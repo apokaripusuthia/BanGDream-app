@@ -16,6 +16,7 @@ class questionViewController: UIViewController {
     
     @IBOutlet weak var quizText: UITextView!
     
+    
     //ボタン
     @IBOutlet weak var answerButton1: UIButton!
     @IBOutlet weak var answerButton2: UIButton!
@@ -72,6 +73,11 @@ class questionViewController: UIViewController {
     //答えのボタン
     @IBAction func tapAbswerButton(_ sender: UIButton) {
         
+        let button = UIButton.init()
+      button.titleLabel?.adjustsFontSizeToFitWidth = true
+        button.titleLabel?.minimumScaleFactor = 0.4
+        
+        
         let userAnswer = sender.titleLabel?.text as! String
         let dics = NSDictionary(contentsOfFile: filePath)
         let dic = dics!["問\(qNunber)"] as! NSDictionary
@@ -88,7 +94,7 @@ class questionViewController: UIViewController {
             alertController.addAction(okAction)
             present(alertController, animated: true,completion: nil)
         } else {
-            let alertController = UIAlertController(title: "残念…", message: "正解! : \(correct)", preferredStyle: .alert)
+            let alertController = UIAlertController(title: "残念…", message: "正解 : \(correct)", preferredStyle: .alert)
             
             let okAction = UIAlertAction(title: "次の問題へ", style: UIAlertActionStyle.default){ (action: UIAlertAction) in
                 self.nextQuestion()

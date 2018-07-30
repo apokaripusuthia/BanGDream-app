@@ -2,24 +2,24 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>問15</key>
+	<key>問5</key>
 	<dict>
 		<key>Q</key>
-		<string>Dr.、『松原　花音』の好きな食べ物は？（キャラ作りは除く）</string>
+		<string>Dr.、『松原　花音』の好きな食べ物は『美味しいお菓子・ケーキ』と、あと２つはなに？</string>
 		<key>A1</key>
-		<string>美味しいお菓子・ケーキ・コーヒー・紅茶</string>
+		<string>コーヒー・紅茶</string>
 		<key>A2</key>
-		<string>美味しいお菓子・ケーキ・コーヒー・アイスティー</string>
+		<string>コーヒー・アイスティー</string>
 		<key>A3</key>
-		<string>美味しいお菓子・ケーキ・チョココロネ・飴</string>
+		<string>チョココロネ・飴</string>
 		<key>A4</key>
-		<string>美味しいお菓子・ケーキ・チョココロネ・ぶどう</string>
+		<string>チョココロネ・ぶどう</string>
 		<key>Correct</key>
-		<string>美味しいお菓子・ケーキ・コーヒー・紅茶</string>
+		<string>コーヒー・紅茶</string>
 		<key>name</key>
 		<string>ハローハッピーワールド</string>
 	</dict>
-	<key>問14</key>
+	<key>問4</key>
 	<dict>
 		<key>Q</key>
 		<string>Gt.、『瀬田　薫』の好きな食べ物は？（キャラ作りは除く）</string>
@@ -36,7 +36,7 @@
 		<key>name</key>
 		<string>ハローハッピーワールド</string>
 	</dict>
-	<key>問13</key>
+	<key>問3</key>
 	<dict>
 		<key>Q</key>
 		<string>DJ、『奥沢　美咲』の好きな食べ物は？</string>
@@ -53,35 +53,35 @@
 		<key>name</key>
 		<string>ハローハッピーワールド</string>
 	</dict>
-	<key>問12</key>
+	<key>問2</key>
 	<dict>
 		<key>Q</key>
-		<string>Ba.、『北沢　はぐみ』の好きな食べ物は？</string>
+		<string>Ba.、『北沢　はぐみ』の好きな食べ物は『自分のお店のコロッケ』と、あと1つはなに？</string>
 		<key>A1</key>
-		<string>自分のお店のコロッケ・お肉・シチュー</string>
+		<string>お肉・シチュー</string>
 		<key>A2</key>
-		<string>自分のお店のコロッケ・お肉・カレー</string>
+		<string>お肉・カレー</string>
 		<key>A3</key>
-		<string>自分のお店のコロッケ・焼き魚・ハンバーグ</string>
+		<string>焼き魚・ハンバーグ</string>
 		<key>A4</key>
-		<string>自分のお店のコロッケ・焼き魚・焼きそば</string>
+		<string>焼き魚・焼きそば</string>
 		<key>Correct</key>
-		<string>自分のお店のコロッケ・お肉・カレー</string>
+		<string>お肉・カレー</string>
 		<key>name</key>
 		<string>ハローハッピーワールド</string>
 	</dict>
-	<key>問11</key>
+	<key>問1</key>
 	<dict>
 		<key>Q</key>
 		<string>Vo.、『弦巻　こころ』の好きな食べ物は？</string>
 		<key>A1</key>
-		<string>なんでも好き！</string>
+		<string>和食</string>
 		<key>A2</key>
-		<string>なんでも大好き！</string>
+		<string>洋食</string>
 		<key>A3</key>
-		<string>なんでも食べられる！</string>
+		<string>イタリアン</string>
 		<key>A4</key>
-		<string>嫌いなものはない！</string>
+		<string>なんでも大好き！</string>
 		<key>Correct</key>
 		<string>なんでも大好き！</string>
 		<key>name</key>
@@ -172,7 +172,7 @@
 		<key>name</key>
 		<string>ハローハッピーワールド</string>
 	</dict>
-	<key>問5</key>
+	<key>問15</key>
 	<dict>
 		<key>Q</key>
 		<string>Dr.、『まつばら　かのん』の名前を正しく書くと？</string>
@@ -189,7 +189,7 @@
 		<key>name</key>
 		<string>ハローハッピーワールド</string>
 	</dict>
-	<key>問4</key>
+	<key>問14</key>
 	<dict>
 		<key>Q</key>
 		<string>Gt.、『せた　かおる』の名前を正しく書くと？</string>
@@ -206,7 +206,7 @@
 		<key>name</key>
 		<string>ハローハッピーワールド</string>
 	</dict>
-	<key>問3</key>
+	<key>問13</key>
 	<dict>
 		<key>Q</key>
 		<string>DJ、『おくさわ　みさき』の名前を正しく書くと？</string>
@@ -223,7 +223,7 @@
 		<key>name</key>
 		<string>ハローハッピーワールド</string>
 	</dict>
-	<key>問2</key>
+	<key>問12</key>
 	<dict>
 		<key>Q</key>
 		<string>Ba.、『きたざわ　はぐみ』の名前を正しく書くと？</string>
@@ -240,7 +240,7 @@
 		<key>name</key>
 		<string>ハローハッピーワールド</string>
 	</dict>
-	<key>問1</key>
+	<key>問11</key>
 	<dict>
 		<key>Q</key>
 		<string>Vo.、『つるまき　こころ』の名前を正しく書くと？</string>

@@ -19,29 +19,29 @@
 		<key>name</key>
 		<string>Poppin&apos;Party</string>
 	</dict>
-	<key>問15</key>
+	<key>問5</key>
 	<dict>
 		<key>Q</key>
-		<string>Ba.、『牛込　りみ』の好きな食べ物は？</string>
+		<string>Ba.、『牛込　りみ』の好きな食べ物は『チョコレート』と、あと2つはなに？</string>
 		<key>A1</key>
-		<string>チョコレート・飴・ペペロンチーノ</string>
+		<string>飴・ペペロンチーノ</string>
 		<key>A2</key>
-		<string>チョコレート・飴・チョココロネ</string>
+		<string>飴・チョココロネ</string>
 		<key>A3</key>
-		<string>チョコレート・お肉・ポテトサラダ</string>
+		<string>お肉・ポテトサラダ</string>
 		<key>A4</key>
-		<string>チョコレート・お肉・生クリーム</string>
+		<string>お肉・生クリーム</string>
 		<key>Correct</key>
-		<string>チョコレート・お肉・生クリーム</string>
+		<string>お肉・生クリーム</string>
 		<key>name</key>
 		<string>Poppin&apos;Party</string>
 	</dict>
-	<key>問14</key>
+	<key>問4</key>
 	<dict>
 		<key>Q</key>
 		<string>Dr.、『山吹　沙綾』の好きな食べ物は？</string>
 		<key>A1</key>
-		<string>ペペロンチーノ・カルボナーラ</string>
+		<string>ペペロンチーノ・わらび餅</string>
 		<key>A2</key>
 		<string>ペペロンチーノ・チーズ</string>
 		<key>A3</key>
@@ -53,7 +53,7 @@
 		<key>name</key>
 		<string>Poppin&apos;Party</string>
 	</dict>
-	<key>問13</key>
+	<key>問3</key>
 	<dict>
 		<key>Q</key>
 		<string>Gt.、『花園　たえ』の好きな食べ物は？</string>
@@ -70,24 +70,24 @@
 		<key>name</key>
 		<string>Poppin&apos;Party</string>
 	</dict>
-	<key>問12</key>
+	<key>問2</key>
 	<dict>
 		<key>Q</key>
-		<string>Gt. &amp;Vo.、『戸山　香澄』の好きな食べ物は？</string>
+		<string>Gt. &amp;Vo.、『戸山　香澄』の好きな食べ物は、『フライドポテト』と、あと1つはなに？</string>
 		<key>A1</key>
-		<string>フライドポテト・あんみつ</string>
+		<string>あんみつ</string>
 		<key>A2</key>
-		<string>フライドポテト・白いご飯</string>
+		<string>白いご飯</string>
 		<key>A3</key>
-		<string>フライドポテト・ハンバーグ</string>
+		<string>ハンバーグ</string>
 		<key>A4</key>
-		<string>フライドポテト・卵焼き</string>
+		<string>卵焼き</string>
 		<key>Correct</key>
-		<string>フライドポテト・白いご飯</string>
+		<string>白いご飯</string>
 		<key>name</key>
 		<string>Poppin&apos;Party</string>
 	</dict>
-	<key>問11</key>
+	<key>問1</key>
 	<dict>
 		<key>Q</key>
 		<string>Poppin&apos;Partyのメンバーが通っている高校の名前は？</string>
@@ -189,7 +189,7 @@
 		<key>name</key>
 		<string>Poppin&apos;Party</string>
 	</dict>
-	<key>問5</key>
+	<key>問15</key>
 	<dict>
 		<key>Q</key>
 		<string>Gt.、『はなぞの　たえ』の名前を正しく書くと？</string>
@@ -206,7 +206,7 @@
 		<key>name</key>
 		<string>Poppin&apos;Party</string>
 	</dict>
-	<key>問4</key>
+	<key>問14</key>
 	<dict>
 		<key>Q</key>
 		<string>Ba.、『うしごめ　りみ』の名前を正しく書くと？</string>
@@ -223,7 +223,7 @@
 		<key>name</key>
 		<string>Poppin&apos;Party</string>
 	</dict>
-	<key>問3</key>
+	<key>問13</key>
 	<dict>
 		<key>Q</key>
 		<string>Key.、『いちがや　ありさ』の名前を正しく書くと？</string>
@@ -240,7 +240,7 @@
 		<key>name</key>
 		<string>Poppin&apos;Party</string>
 	</dict>
-	<key>問2</key>
+	<key>問12</key>
 	<dict>
 		<key>Q</key>
 		<string>Dr.、『やまぶき　さあや』の名前を正しく書くと？</string>
@@ -257,7 +257,7 @@
 		<key>name</key>
 		<string>Poppin&apos;Party</string>
 	</dict>
-	<key>問1</key>
+	<key>問11</key>
 	<dict>
 		<key>Q</key>
 		<string>Gt. &amp;Vo.、『とやま　かすみ』の名前を正しく書くと？</string>

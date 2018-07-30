@@ -2,41 +2,41 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>問15</key>
+	<key>問5</key>
 	<dict>
 		<key>Q</key>
-		<string>Gt.、『氷川　紗夜』の好きな食べ物は？</string>
+		<string>Gt.、『氷川　紗夜』の好きな食べ物は『ジャンクフード・ガム』と、あと1つはなに？</string>
 		<key>A1</key>
-		<string>ジャンクフード・ガム・アップルパイ</string>
+		<string>アップルパイ</string>
 		<key>A2</key>
-		<string>ジャンクフード・ガム・プリン</string>
+		<string>プリン</string>
 		<key>A3</key>
-		<string>ジャンクフード・ガム・ガトーショコラ</string>
+		<string>ガトーショコラ</string>
 		<key>A4</key>
-		<string>ジャンクフード・ガム・キャンディ</string>
+		<string>キャンディ</string>
 		<key>Correct</key>
-		<string>ジャンクフード・ガム・キャンディ</string>
+		<string>キャンディ</string>
 		<key>name</key>
 		<string>Roselia</string>
 	</dict>
-	<key>問14</key>
+	<key>問4</key>
 	<dict>
 		<key>Q</key>
-		<string>Dr.、『宇田川　あこ』の好きな食べ物は？</string>
+		<string>Dr.、『宇田川　あこ』の好きな食べ物は『ポテトチップ』と、あと1つはなに？</string>
 		<key>A1</key>
-		<string>ポテトチップ・コーラ</string>
+		<string>コーラ</string>
 		<key>A2</key>
-		<string>ポテトチップ・クッキー</string>
+		<string>クッキー</string>
 		<key>A3</key>
-		<string>ポテトチップ・ジェリービーンズ</string>
+		<string>ジェリービーンズ</string>
 		<key>A4</key>
-		<string>ポテトチップ・ふ菓子</string>
+		<string>ふ菓子</string>
 		<key>Correct</key>
-		<string>ポテトチップ・ジェリービーンズ</string>
+		<string>ジェリービーンズ</string>
 		<key>name</key>
 		<string>Roselia</string>
 	</dict>
-	<key>問13</key>
+	<key>問3</key>
 	<dict>
 		<key>Q</key>
 		<string>Key.、『白金　燐子』の好きな食べ物は？</string>
@@ -53,7 +53,7 @@
 		<key>name</key>
 		<string>Roselia</string>
 	</dict>
-	<key>問12</key>
+	<key>問2</key>
 	<dict>
 		<key>Q</key>
 		<string>Ba.、『今井　リサ』の好きな食べ物は？</string>
@@ -70,20 +70,20 @@
 		<key>name</key>
 		<string>Roselia</string>
 	</dict>
-	<key>問11</key>
+	<key>問1</key>
 	<dict>
 		<key>Q</key>
-		<string>Vo.、『湊　友希那』の好きな食べ物は？</string>
+		<string>Vo.、『湊　友希那』の好きな食べ物は『リサが作ったクッキー』と、あと1つはなに？</string>
 		<key>A1</key>
-		<string>紅茶・リサが作ったクッキー</string>
+		<string>紅茶</string>
 		<key>A2</key>
-		<string>はちみつティー・リサが作ったクッキー</string>
+		<string>はちみつティー</string>
 		<key>A3</key>
-		<string>コーヒー・リサが作ったクッキー</string>
+		<string>コーヒー</string>
 		<key>A4</key>
-		<string>アイスティー・リサが作ったクッキー</string>
+		<string>アイスティー</string>
 		<key>Correct</key>
-		<string>はちみつティー・リサが作ったクッキー</string>
+		<string>はちみつティー</string>
 		<key>name</key>
 		<string>Roselia</string>
 	</dict>
@@ -141,17 +141,17 @@
 	<key>問7</key>
 	<dict>
 		<key>Q</key>
-		<string>Key.、『白金　燐子』の趣味は？</string>
+		<string>Key.、『白金　燐子』の趣味は『オンラインゲーム』と、あと1つはなに？</string>
 		<key>A1</key>
-		<string>オンラインゲーム・テレビゲーム</string>
+		<string>テレビゲーム</string>
 		<key>A2</key>
-		<string>オンラインゲーム・オセロ</string>
+		<string>オセロ</string>
 		<key>A3</key>
-		<string>オンラインゲーム・トランプ</string>
+		<string>トランプ</string>
 		<key>A4</key>
-		<string>オンラインゲーム・クロスワード</string>
+		<string>クロスワード</string>
 		<key>Correct</key>
-		<string>オンラインゲーム・クロスワード</string>
+		<string>クロスワード</string>
 		<key>name</key>
 		<string>Roselia</string>
 	</dict>
@@ -172,7 +172,7 @@
 		<key>name</key>
 		<string>Roselia</string>
 	</dict>
-	<key>問5</key>
+	<key>問15</key>
 	<dict>
 		<key>Q</key>
 		<string>Gt.、『ひかわ　さよ』の名前を正しく書くと？</string>
@@ -189,7 +189,7 @@
 		<key>name</key>
 		<string>Roselia</string>
 	</dict>
-	<key>問4</key>
+	<key>問14</key>
 	<dict>
 		<key>Q</key>
 		<string>Ba.、『いまい　りさ』の名前を正しく書くと？</string>
@@ -206,7 +206,7 @@
 		<key>name</key>
 		<string>Roselia</string>
 	</dict>
-	<key>問3</key>
+	<key>問13</key>
 	<dict>
 		<key>Q</key>
 		<string>Key.、『しろかね　りんこ』の名前を正しく書くと？</string>
@@ -223,7 +223,7 @@
 		<key>name</key>
 		<string>Roselia</string>
 	</dict>
-	<key>問2</key>
+	<key>問12</key>
 	<dict>
 		<key>Q</key>
 		<string>Dr.、『うだがわ　あこ』の名前を正しく書くと？</string>
@@ -240,7 +240,7 @@
 		<key>name</key>
 		<string>Roselia</string>
 	</dict>
-	<key>問1</key>
+	<key>問11</key>
 	<dict>
 		<key>Q</key>
 		<string>Vo.、『みなと　ゆきな』の名前を正しく書くと？</string>

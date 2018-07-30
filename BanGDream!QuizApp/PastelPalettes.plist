@@ -2,24 +2,24 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>問15</key>
+	<key>問5</key>
 	<dict>
 		<key>Q</key>
-		<string>Ba.、『白鷺　千聖』の好きな食べ物は？</string>
+		<string>Ba.、『白鷺　千聖』の好きな食べ物は『紅茶・さっぱりした味のもの』と、あと1つは何？</string>
 		<key>A1</key>
-		<string>紅茶・さっぱりした味のもの・アイスティー</string>
+		<string>アイスティー</string>
 		<key>A2</key>
-		<string>紅茶・さっぱりした味のもの・アイスクリーム</string>
+		<string>アイスクリーム</string>
 		<key>A3</key>
-		<string>紅茶・さっぱりした味のもの・アサイーボウル</string>
+		<string>アサイーボウル</string>
 		<key>A4</key>
-		<string>紅茶・さっぱりした味のもの・ショートケーキ</string>
+		<string>ショートケーキ</string>
 		<key>Correct</key>
-		<string>紅茶・さっぱりした味のもの・アサイーボウル</string>
+		<string>アサイーボウル</string>
 		<key>name</key>
 		<string>Pastel*Palettes</string>
 	</dict>
-	<key>問14</key>
+	<key>問4</key>
 	<dict>
 		<key>Q</key>
 		<string>Dr.、『大和　麻弥』の好きな食べ物は？</string>
@@ -36,7 +36,7 @@
 		<key>name</key>
 		<string>Pastel*Palettes</string>
 	</dict>
-	<key>問13</key>
+	<key>問3</key>
 	<dict>
 		<key>Q</key>
 		<string>Key.、『若宮　イヴ』の好きな食べ物は？</string>
@@ -53,37 +53,37 @@
 		<key>name</key>
 		<string>Pastel*Palettes</string>
 	</dict>
-	<key>問12</key>
+	<key>問2</key>
 	<dict>
 		<key>Q</key>
 		<string>Vo.、『丸山　彩』の好きな食べ物は？</string>
 		<key>A1</key>
-		<string>ハンバーガー・フライドポテトなどのジャンクフード</string>
+		<string>ジャンクフード</string>
 		<key>A2</key>
-		<string>オムライス・ハンバーグなどの洋食</string>
+		<string>洋食</string>
 		<key>A3</key>
-		<string>ピザ・パスタなどのイタリアン</string>
+		<string>イタリアン</string>
 		<key>A4</key>
-		<string>寿司・天ぷらなどの和食</string>
+		<string>和食</string>
 		<key>Correct</key>
-		<string>オムライス・ハンバーグなどの洋食</string>
+		<string>洋食</string>
 		<key>name</key>
 		<string>Pastel*Palettes</string>
 	</dict>
-	<key>問11</key>
+	<key>問1</key>
 	<dict>
 		<key>Q</key>
-		<string>Gt.、『氷川　日菜』の好きな食べ物は？</string>
+		<string>Gt.、『氷川　日菜』の好きな食べ物は『ガム・キャンディ』と、あと1つはなに？</string>
 		<key>A1</key>
-		<string>ガム・キャンディ・ジャンクフード</string>
+		<string>ジャンクフード</string>
 		<key>A2</key>
-		<string>ガム・キャンディ・金平糖</string>
+		<string>金平糖</string>
 		<key>A3</key>
-		<string>ガム・キャンディ・パンケーキ</string>
+		<string>パンケーキ</string>
 		<key>A4</key>
-		<string>ガム・キャンディ・プリン</string>
+		<string>プリン</string>
 		<key>Correct</key>
-		<string>ガム・キャンディ・ジャンクフード</string>
+		<string>ジャンクフード</string>
 		<key>name</key>
 		<string>Pastel*Palettes</string>
 	</dict>
@@ -117,7 +117,7 @@
 		<key>A4</key>
 		<string>味噌</string>
 		<key>Correct</key>
-		<string>高級食材</string>
+		<string>納豆</string>
 		<key>name</key>
 		<string>Pastel*Palettes</string>
 	</dict>
@@ -172,7 +172,7 @@
 		<key>name</key>
 		<string>Pastel*Palettes</string>
 	</dict>
-	<key>問5</key>
+	<key>問15</key>
 	<dict>
 		<key>Q</key>
 		<string>Ba.、『しらさぎ　ちさと』の名前を正しく書くと？</string>
@@ -189,7 +189,7 @@
 		<key>name</key>
 		<string>Pastel*Palettes</string>
 	</dict>
-	<key>問4</key>
+	<key>問14</key>
 	<dict>
 		<key>Q</key>
 		<string>Gt.、『ひかわ　ひな』の名前を正しく書くと？</string>
@@ -206,7 +206,7 @@
 		<key>name</key>
 		<string>Pastel*Palettes</string>
 	</dict>
-	<key>問3</key>
+	<key>問13</key>
 	<dict>
 		<key>Q</key>
 		<string>Dr.、『やまと　まや』の名前を正しく書くと？</string>
@@ -223,7 +223,7 @@
 		<key>name</key>
 		<string>Pastel*Palettes</string>
 	</dict>
-	<key>問2</key>
+	<key>問12</key>
 	<dict>
 		<key>Q</key>
 		<string>key.、『わかみや　いぶ』の名前を正しく書くと？</string>
@@ -240,7 +240,7 @@
 		<key>name</key>
 		<string>Pastel*Palettes</string>
 	</dict>
-	<key>問1</key>
+	<key>問11</key>
 	<dict>
 		<key>Q</key>
 		<string>Vo.、『まるやま　あや』の名前を正しく書くと？</string>
