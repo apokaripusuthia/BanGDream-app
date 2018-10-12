@@ -27,6 +27,7 @@ class resultViewController: UIViewController {
         addBannerViewToView(bannerView)
         //        bannerView.adUnitID = "ca-app-pub-3940256099942544/2934735716" // ここを自分のユニットIDに変更する ca-app-pub-6416476542651492/6714550961
         bannerView.adUnitID = "ca-app-pub-9102767441102759/3606716796"
+        //bannerView.adUnitID = "ca-app-pub-6416476542651492/6714550961"
         bannerView.rootViewController = self
         bannerView.load(GADRequest())
     }
