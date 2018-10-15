@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		316C24496C755EFBA17E76E9 /* Pods_BanGDream_QuizApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA0465DDD19F4B468AB33604 /* Pods_BanGDream_QuizApp.framework */; };
+		8B049BCF21747F5100747CE9 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8B049BCE21747F5100747CE9 /* GoogleService-Info.plist */; };
 		8B1FE36120F1E66B00E02E45 /* PastelPalettes.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8B1FE36020F1E66A00E02E45 /* PastelPalettes.plist */; };
 		8B1FE36320F1F7B300E02E45 /* Roselia.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8B1FE36220F1F7B300E02E45 /* Roselia.plist */; };
 		8B4CB4A720CE5DC30098EF41 /* Afterglow.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8B4CB4A620CE5DC30098EF41 /* Afterglow.plist */; };
@@ -22,10 +23,10 @@
 		8BCEE1FA20C916FD0072709A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BCEE1F920C916FD0072709A /* Assets.xcassets */; };
 		8BCEE1FD20C916FD0072709A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BCEE1FB20C916FD0072709A /* LaunchScreen.storyboard */; };
 		8BCEE20520C95CA80072709A /* PoppinParty.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8BCEE20420C95CA80072709A /* PoppinParty.plist */; };
-		8BF96399216DEB93005789F4 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8BF96398216DEB93005789F4 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8B049BCE21747F5100747CE9 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		8B1FE36020F1E66A00E02E45 /* PastelPalettes.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = PastelPalettes.plist; sourceTree = "<group>"; };
 		8B1FE36220F1F7B300E02E45 /* Roselia.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Roselia.plist; sourceTree = "<group>"; };
 		8B4CB4A620CE5DC30098EF41 /* Afterglow.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Afterglow.plist; sourceTree = "<group>"; };
@@ -42,7 +43,6 @@
 		8BCEE1FC20C916FD0072709A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8BCEE1FE20C916FD0072709A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8BCEE20420C95CA80072709A /* PoppinParty.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = PoppinParty.plist; sourceTree = "<group>"; };
-		8BF96398216DEB93005789F4 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		A3DE159EA8EA242B603B5AD7 /* Pods-BanGDream!QuizApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BanGDream!QuizApp.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BanGDream!QuizApp/Pods-BanGDream!QuizApp.debug.xcconfig"; sourceTree = "<group>"; };
 		BA0465DDD19F4B468AB33604 /* Pods_BanGDream_QuizApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BanGDream_QuizApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C98D039ECDAF27F989BBBAF3 /* Pods-BanGDream!QuizApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BanGDream!QuizApp.release.xcconfig"; path = "Pods/Target Support Files/Pods-BanGDream!QuizApp/Pods-BanGDream!QuizApp.release.xcconfig"; sourceTree = "<group>"; };
@@ -104,7 +104,7 @@
 				8B4CB4A820D253B50098EF41 /* resultViewController.swift */,
 				8B9B9A622101D207000F7473 /* game.png */,
 				8B9B9A642101D211000F7473 /* kekka.png */,
-				8BF96398216DEB93005789F4 /* GoogleService-Info.plist */,
+				8B049BCE21747F5100747CE9 /* GoogleService-Info.plist */,
 				8BCEE1F620C916FB0072709A /* Main.storyboard */,
 				8BCEE1F920C916FD0072709A /* Assets.xcassets */,
 				8BCEE1FB20C916FD0072709A /* LaunchScreen.storyboard */,
@@ -186,7 +186,7 @@
 				8BCEE1FA20C916FD0072709A /* Assets.xcassets in Resources */,
 				8B936BAF20CA671E00503902 /* ハローハッピーワールド.plist in Resources */,
 				8BCEE1F820C916FB0072709A /* Main.storyboard in Resources */,
-				8BF96399216DEB93005789F4 /* GoogleService-Info.plist in Resources */,
+				8B049BCF21747F5100747CE9 /* GoogleService-Info.plist in Resources */,
 				8B1FE36320F1F7B300E02E45 /* Roselia.plist in Resources */,
 				8B1FE36120F1E66B00E02E45 /* PastelPalettes.plist in Resources */,
 			);
@@ -200,16 +200,12 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-			);
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-BanGDream!QuizApp/Pods-BanGDream!QuizApp-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework",
 				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-			);
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleUtilities.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
@@ -224,15 +220,11 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-			);
 			inputPaths = (
 				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
 				"${PODS_ROOT}/Manifest.lock",
 			);
 			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
 			outputPaths = (
 				"$(DERIVED_FILE_DIR)/Pods-BanGDream!QuizApp-checkManifestLockResult.txt",
 			);
