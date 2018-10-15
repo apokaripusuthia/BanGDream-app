@@ -36,5 +36,7 @@
 	<string>1:1075781843458:ios:82706cbec19800b1</string>
 	<key>DATABASE_URL</key>
 	<string>https://quiz-for-bangdream.firebaseio.com</string>
+	<key>ADMOB_APP_ID</key>
+	<string>ca-app-pub-9102767441102759~3379486080</string>
 </dict>
 </plist>
